@@ -1,0 +1,6 @@
+.DS_store
+.ipynb_checkpoints
+
+data/
+
+severstal-steel-defect-detection.zip
